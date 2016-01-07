@@ -1,0 +1,15 @@
+audit.edu.berkeley.sparrow.daemon.scheduler.Scheduler	1452199912821	arrived:192.168.99.1_0:1:192.168.99.1:20503:defaultUser::false
+audit.edu.berkeley.sparrow.daemon.scheduler.Scheduler	1452199912835	scheduler_launch_enqueue_task:192.168.99.1_0:192.168.99.1
+audit.edu.berkeley.sparrow.daemon.nodemonitor.TaskScheduler	1452199912848	node_monitor_enqueue_task_reservation:192.168.99.1:192.168.99.1_0
+audit.edu.berkeley.sparrow.daemon.nodemonitor.TaskScheduler	1452199912850	reservation_enqueued:192.168.99.1:192.168.99.1_0:0
+audit.edu.berkeley.sparrow.daemon.nodemonitor.TaskScheduler	1452199912850	reservation_enqueued:192.168.99.1:192.168.99.1_0:0
+audit.edu.berkeley.sparrow.daemon.scheduler.Scheduler	1452199912852	scheduler_complete_enqueue_task:192.168.99.1_0:192.168.99.1
+audit.edu.berkeley.sparrow.daemon.nodemonitor.TaskLauncherService	1452199912864	node_monitor_get_task_launch:192.168.99.1_0:192.168.99.1
+audit.edu.berkeley.sparrow.daemon.nodemonitor.TaskLauncherService	1452199912865	node_monitor_get_task_launch:192.168.99.1_0:192.168.99.1
+audit.edu.berkeley.sparrow.daemon.scheduler.Scheduler	1452199912872	scheduler_assigned_task:192.168.99.1_0:447537577:192.168.99.1
+audit.edu.berkeley.sparrow.daemon.nodemonitor.TaskLauncherService	1452199912874	node_monitor_get_task_complete:192.168.99.1_0:192.168.99.1
+audit.edu.berkeley.sparrow.daemon.nodemonitor.TaskLauncherService	1452199912874	node_monitor_task_launch:192.168.99.1_0:192.168.99.1:447537577::
+audit.edu.berkeley.sparrow.daemon.nodemonitor.TaskLauncherService	1452199912875	node_monitor_get_task_complete:192.168.99.1_0:192.168.99.1
+audit.edu.berkeley.sparrow.daemon.nodemonitor.TaskScheduler	1452199912875	node_monitor_get_task_no_task:192.168.99.1_0::
+audit.edu.berkeley.sparrow.daemon.nodemonitor.TaskScheduler	1452199912883	node_monitor_cancellation:192.168.99.1:192.168.99.1_0:0
+audit.edu.berkeley.sparrow.daemon.nodemonitor.TaskScheduler	1452199913915	task_completed:192.168.99.1_0:447537577
